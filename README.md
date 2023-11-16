@@ -7,10 +7,10 @@ Este projeto consiste em um sistema de registro e login desenvolvido em Java, ut
 ## Análise de Requisitos
 O sistema atende aos seguintes requisitos:
 
-Permitir o registro de novos usuários com informações como nome, e-mail, senha e telefone.\
-Realizar a autenticação de usuários cadastrados através do e-mail e senha.\
-Apresentar mensagens de sucesso ou falha durante o registro e login.\
-Utilizar um banco de dados MySQL para armazenar informações dos usuários.\
+Permitir o registro de novos usuários com informações como nome, e-mail, senha e telefone. \
+Realizar a autenticação de usuários cadastrados através do e-mail e senha. \
+Apresentar mensagens de sucesso ou falha durante o registro e login. \
+Utilizar um banco de dados MySQL para armazenar informações dos usuários. \
 
 ## Tecnologias Utilizadas
 ### Java Servlet e JSP:
@@ -28,10 +28,10 @@ API do Java para conexão e interação com o banco de dados MySQL.
 O projeto está configurado para se conectar a um banco de dados MySQL localmente. Certifique-se de que o MySQL esteja instalado e configurado corretamente. As credenciais de acesso ao banco de dados estão definidas no código-fonte.
 
 ## Execução do Projeto
-Importe o projeto em um ambiente de desenvolvimento Java.\
-Configure um servidor web compatível com Java Servlet para executar o projeto.\
-Certifique-se de ter um servidor MySQL em execução com as configurações adequadas.\
-Execute o projeto no servidor web.\
+Importe o projeto em um ambiente de desenvolvimento Java. \
+Configure um servidor web compatível com Java Servlet para executar o projeto. \
+Certifique-se de ter um servidor MySQL em execução com as configurações adequadas. \
+Execute o projeto no servidor web.
 
 ## Desenvolvido por
 Marco Túlio Silveira Mendes 4317323\
