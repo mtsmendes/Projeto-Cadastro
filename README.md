@@ -1,7 +1,7 @@
 # Seminário Interdisciplinar: Implementação de uma Aplicação WEB
 Repositório do projeto criado para apresentação do Seminário Interdisciplinar: Implementação de uma Aplicação WEB.
 
-Sobre o Projeto
+## Sobre o Projeto
 Este projeto consiste em um sistema de registro e login desenvolvido em Java, utilizando o framework Java Servlet e JSP para a camada de apresentação. O banco de dados utilizado é o MySQL.
 
 ## Análise de Requisitos
