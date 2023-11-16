@@ -34,7 +34,7 @@ Certifique-se de ter um servidor MySQL em execução com as configurações adeq
 Execute o projeto no servidor web.
 
 ## Desenvolvido por
-Marco Túlio Silveira Mendes 4317323__
-João Guilherme da Silva Tenfen 3501822__
+Marco Túlio Silveira Mendes 4317323\
+João Guilherme da Silva Tenfen 3501822\
 Luis Felipe Deschamps Soares 4307738 
 
