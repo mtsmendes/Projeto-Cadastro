@@ -10,7 +10,7 @@ O sistema atende aos seguintes requisitos:
 Permitir o registro de novos usuários com informações como nome, e-mail, senha e telefone. \
 Realizar a autenticação de usuários cadastrados através do e-mail e senha. \
 Apresentar mensagens de sucesso ou falha durante o registro e login. \
-Utilizar um banco de dados MySQL para armazenar informações dos usuários. \
+Utilizar um banco de dados MySQL para armazenar informações dos usuários. 
 
 ## Tecnologias Utilizadas
 ### Java Servlet e JSP:
