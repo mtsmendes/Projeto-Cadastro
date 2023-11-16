@@ -12,10 +12,6 @@ Realizar a autenticação de usuários cadastrados através do e-mail e senha.
 Apresentar mensagens de sucesso ou falha durante o registro e login.
 Utilizar um banco de dados MySQL para armazenar informações dos usuários.
 
-## Entidades do Sistema
-### Usuário (users):
-Atributos: uname (Nome do usuário), uemail (E-mail do usuário), upwd (Senha do usuário), umobile (Telefone do usuário).
-
 ## Tecnologias Utilizadas
 ### Java Servlet e JSP:
 Framework utilizado para o desenvolvimento da lógica de controle e a camada de apresentação.
